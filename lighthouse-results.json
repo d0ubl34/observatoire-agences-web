@@ -1,0 +1,716 @@
+[
+    {
+        "name": "Double A",
+        "url": "https:\/\/doublea.io",
+        "latestAudit": {
+            "date": "2025-07-08T14:37:15.000Z",
+            "scores": {
+                "performance": 94,
+                "accessibility": 94,
+                "best-practices": 100,
+                "seo": 100,
+                "carbon": 0.17790075240014125,
+                "carbonCleanerThan": 85,
+                "psiReportUrl": "https:\/\/pagespeed.web.dev\/report?url=https%3A%2F%2Fdoublea.io",
+                "faviconUrl": "https:\/\/t1.gstatic.com\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fdoublea.io&size=64"
+            }
+        }
+    },
+    {
+        "name": "Reunion Web Design",
+        "url": "https:\/\/www.reunionwebdesign.com",
+        "latestAudit": {
+            "date": "2025-07-08T07:10:40.000Z",
+            "scores": {
+                "performance": 77,
+                "accessibility": 73,
+                "best-practices": 100,
+                "seo": 100,
+                "carbon": 0.1938024914123118,
+                "carbonCleanerThan": 80,
+                "psiReportUrl": "https:\/\/pagespeed.web.dev\/report?url=https%3A%2F%2Fwww.reunionwebdesign.com",
+                "faviconUrl": "https:\/\/t1.gstatic.com\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.reunionwebdesign.com&size=64"
+            }
+        }
+    },
+    {
+        "name": "New Lions",
+        "url": "https:\/\/www.newlions.fr",
+        "latestAudit": {
+            "date": "2025-07-08T09:35:13.000Z",
+            "scores": {
+                "performance": 70,
+                "accessibility": 92,
+                "best-practices": 100,
+                "seo": 92,
+                "carbon": 1.7004431103380397,
+                "carbonCleanerThan": 15,
+                "psiReportUrl": "https:\/\/pagespeed.web.dev\/report?url=https%3A%2F%2Fwww.newlions.fr",
+                "faviconUrl": "https:\/\/t1.gstatic.com\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.newlions.fr&size=64"
+            }
+        }
+    },
+    {
+        "name": "Vizion",
+        "url": "https:\/\/vizion.re",
+        "latestAudit": {
+            "date": "2025-07-05T20:50:58.000Z",
+            "scores": {
+                "performance": 65,
+                "accessibility": 86,
+                "best-practices": 96,
+                "seo": 100,
+                "carbon": 2.7076698878841476,
+                "carbonCleanerThan": 9,
+                "psiReportUrl": "https:\/\/pagespeed.web.dev\/report?url=https%3A%2F%2Fvizion.re",
+                "faviconUrl": "https:\/\/t1.gstatic.com\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fvizion.re&size=64"
+            }
+        }
+    },
+    {
+        "name": "Alize Studio",
+        "url": "https:\/\/alize-studio.fr",
+        "latestAudit": {
+            "date": "2025-07-06T14:42:37.000Z",
+            "scores": {
+                "performance": 36,
+                "accessibility": 87,
+                "best-practices": 75,
+                "seo": 100,
+                "carbon": 1.6499206570660696,
+                "carbonCleanerThan": 16,
+                "psiReportUrl": "https:\/\/pagespeed.web.dev\/report?url=https%3A%2F%2Falize-studio.fr",
+                "faviconUrl": "https:\/\/t1.gstatic.com\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Falize-studio.fr&size=64"
+            }
+        }
+    },
+    {
+        "name": "Rekursiv",
+        "url": "https:\/\/rekursiv.fr",
+        "latestAudit": {
+            "date": "2025-07-08T07:32:10.000Z",
+            "scores": {
+                "performance": 77,
+                "accessibility": 93,
+                "best-practices": 100,
+                "seo": 100,
+                "carbon": 0.5531651278171689,
+                "carbonCleanerThan": 50,
+                "psiReportUrl": "https:\/\/pagespeed.web.dev\/report?url=https%3A%2F%2Frekursiv.fr",
+                "faviconUrl": "https:\/\/t1.gstatic.com\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Frekursiv.fr&size=64"
+            }
+        }
+    },
+    {
+        "name": "Agence Solution",
+        "url": "https:\/\/agencesolution.com",
+        "latestAudit": {
+            "date": "2025-07-06T06:10:53.000Z",
+            "scores": {
+                "performance": 52,
+                "accessibility": 90,
+                "best-practices": 96,
+                "seo": 92,
+                "carbon": 0.5115893065326848,
+                "carbonCleanerThan": 47,
+                "psiReportUrl": "https:\/\/pagespeed.web.dev\/report?url=https%3A%2F%2Fagencesolution.com",
+                "faviconUrl": "https:\/\/t1.gstatic.com\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fagencesolution.com&size=64"
+            }
+        }
+    },
+    {
+        "name": "Pirrha",
+        "url": "https:\/\/www.pirrha.re",
+        "latestAudit": {
+            "date": "2025-07-05T15:01:23.000Z",
+            "scores": {
+                "performance": 59,
+                "accessibility": 92,
+                "best-practices": 100,
+                "seo": 92,
+                "carbon": 0.6723686336047948,
+                "carbonCleanerThan": 37,
+                "psiReportUrl": "https:\/\/pagespeed.web.dev\/report?url=https%3A%2F%2Fwww.pirrha.re",
+                "faviconUrl": "https:\/\/t1.gstatic.com\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.pirrha.re&size=64"
+            }
+        }
+    },
+    {
+        "name": "Yello",
+        "url": "https:\/\/www.yello.re",
+        "latestAudit": {
+            "date": "2025-07-05T13:53:11.000Z",
+            "scores": {
+                "performance": 47,
+                "accessibility": 96,
+                "best-practices": 93,
+                "seo": 100,
+                "carbon": 2.4358845050767064,
+                "carbonCleanerThan": 10,
+                "psiReportUrl": "https:\/\/pagespeed.web.dev\/report?url=https%3A%2F%2Fwww.yello.re",
+                "faviconUrl": "https:\/\/t1.gstatic.com\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.yello.re&size=64"
+            }
+        }
+    },
+    {
+        "name": "Community Manager 974",
+        "url": "https:\/\/www.communitymanager974.re",
+        "latestAudit": {
+            "date": "2025-07-05T14:31:28.000Z",
+            "scores": {
+                "performance": 59,
+                "accessibility": 69,
+                "best-practices": 79,
+                "seo": 92,
+                "carbon": 1.1394322149831801,
+                "carbonCleanerThan": 25,
+                "psiReportUrl": "https:\/\/pagespeed.web.dev\/report?url=https%3A%2F%2Fwww.communitymanager974.re",
+                "faviconUrl": "https:\/\/t1.gstatic.com\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.communitymanager974.re&size=64"
+            }
+        }
+    },
+    {
+        "name": "Axiom Marketing",
+        "url": "https:\/\/www.axiom-marketing.io",
+        "latestAudit": {
+            "date": "2025-07-04T11:01:10.398Z",
+            "scores": {
+                "performance": 55,
+                "accessibility": 86,
+                "best-practices": 81,
+                "seo": 93,
+                "psiReportUrl": "https:\/\/pagespeed.web.dev\/report?url=https%3A%2F%2Fwww.axiom-marketing.io",
+                "faviconUrl": "https:\/\/t1.gstatic.com\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.axiom-marketing.io&size=64",
+                "carbon": 0.836596312205214,
+                "carbonCleanerThan": 35
+            }
+        }
+    },
+    {
+        "name": "Marketing Management",
+        "url": "https:\/\/www.marketing-management.io",
+        "latestAudit": {
+            "date": "2025-07-06T14:42:39.000Z",
+            "scores": {
+                "performance": 33,
+                "accessibility": 89,
+                "best-practices": 75,
+                "seo": 100,
+                "carbon": 1.1823679424551317,
+                "carbonCleanerThan": 21,
+                "psiReportUrl": "https:\/\/pagespeed.web.dev\/report?url=https%3A%2F%2Fwww.marketing-management.io",
+                "faviconUrl": "https:\/\/t1.gstatic.com\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.marketing-management.io&size=64"
+            }
+        }
+    },
+    {
+        "name": "Techout",
+        "url": "https:\/\/www.techout.fr",
+        "latestAudit": {
+            "date": "2025-07-04T11:02:31.450Z",
+            "scores": {
+                "performance": 61,
+                "accessibility": 77,
+                "best-practices": 74,
+                "seo": 97,
+                "psiReportUrl": "https:\/\/pagespeed.web.dev\/report?url=https%3A%2F%2Fwww.techout.fr",
+                "faviconUrl": "https:\/\/t1.gstatic.com\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.techout.fr&size=64",
+                "carbon": 0.9049594155326486,
+                "carbonCleanerThan": 32
+            }
+        }
+    },
+    {
+        "name": "Agence Communication",
+        "url": "https:\/\/agence-communication.re",
+        "latestAudit": {
+            "date": "2025-07-08T07:09:58.000Z",
+            "scores": {
+                "performance": 97,
+                "accessibility": 85,
+                "best-practices": 96,
+                "seo": 100,
+                "carbon": 0.3289188128267415,
+                "carbonCleanerThan": 64,
+                "psiReportUrl": "https:\/\/pagespeed.web.dev\/report?url=https%3A%2F%2Fagence-communication.re",
+                "faviconUrl": "https:\/\/t1.gstatic.com\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fagence-communication.re&size=64"
+            }
+        }
+    },
+    {
+        "name": "Digidatale",
+        "url": "https:\/\/digidatale.com",
+        "latestAudit": {
+            "date": "2025-07-06T14:43:04.000Z",
+            "scores": {
+                "performance": 50,
+                "accessibility": 93,
+                "best-practices": 54,
+                "seo": 92,
+                "carbon": 0.7953824948262423,
+                "carbonCleanerThan": 32,
+                "psiReportUrl": "https:\/\/pagespeed.web.dev\/report?url=https%3A%2F%2Fdigidatale.com",
+                "faviconUrl": "https:\/\/t1.gstatic.com\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fdigidatale.com&size=64"
+            }
+        }
+    },
+    {
+        "name": "Digital Zoorit",
+        "url": "https:\/\/digital.zoorit.com",
+        "latestAudit": {
+            "date": "2025-07-05T14:24:27.000Z",
+            "scores": {
+                "performance": 87,
+                "accessibility": 96,
+                "best-practices": 100,
+                "seo": 100,
+                "carbon": 3.3021412221159787,
+                "carbonCleanerThan": 6,
+                "psiReportUrl": "https:\/\/pagespeed.web.dev\/report?url=https%3A%2F%2Fdigital.zoorit.com",
+                "faviconUrl": "https:\/\/t1.gstatic.com\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fdigital.zoorit.com&size=64"
+            }
+        }
+    },
+    {
+        "name": "Contenu Creation",
+        "url": "https:\/\/contenucreation.fr",
+        "latestAudit": {
+            "date": "2025-07-08T06:56:12.000Z",
+            "scores": {
+                "performance": 73,
+                "accessibility": 94,
+                "best-practices": 96,
+                "seo": 100,
+                "carbon": 0.33602874071504923,
+                "carbonCleanerThan": 63,
+                "psiReportUrl": "https:\/\/pagespeed.web.dev\/report?url=https%3A%2F%2Fcontenucreation.fr",
+                "faviconUrl": "https:\/\/t1.gstatic.com\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fcontenucreation.fr&size=64"
+            }
+        }
+    },
+    {
+        "name": "Squirrel",
+        "url": "https:\/\/www.squirrel.fr",
+        "latestAudit": {
+            "date": "2025-07-08T06:55:57.000Z",
+            "scores": {
+                "performance": 75,
+                "accessibility": 85,
+                "best-practices": 100,
+                "seo": 100,
+                "carbon": 0.2597624728468247,
+                "carbonCleanerThan": 76,
+                "psiReportUrl": "https:\/\/pagespeed.web.dev\/report?url=https%3A%2F%2Fwww.squirrel.fr",
+                "faviconUrl": "https:\/\/t1.gstatic.com\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.squirrel.fr&size=64"
+            }
+        }
+    },
+    {
+        "name": "Com974",
+        "url": "https:\/\/www.com974.com",
+        "latestAudit": {
+            "date": "2025-07-05T14:57:23.000Z",
+            "scores": {
+                "performance": 55.00000000000001,
+                "accessibility": 88,
+                "best-practices": 100,
+                "seo": 92,
+                "carbon": 1.0751241595764645,
+                "carbonCleanerThan": 23,
+                "psiReportUrl": "https:\/\/pagespeed.web.dev\/report?url=https%3A%2F%2Fwww.com974.com",
+                "faviconUrl": "https:\/\/t1.gstatic.com\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.com974.com&size=64"
+            }
+        }
+    },
+    {
+        "name": "Albione Digital",
+        "url": "https:\/\/albionedigital.fr",
+        "latestAudit": {
+            "date": "2025-07-05T20:59:51.000Z",
+            "scores": {
+                "performance": 48,
+                "accessibility": 90,
+                "best-practices": 96,
+                "seo": 92,
+                "carbon": 1.1369631368849427,
+                "carbonCleanerThan": 25,
+                "psiReportUrl": "https:\/\/pagespeed.web.dev\/report?url=https%3A%2F%2Falbionedigital.fr",
+                "faviconUrl": "https:\/\/t1.gstatic.com\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Falbionedigital.fr&size=64"
+            }
+        }
+    },
+    {
+        "name": "Creaweb",
+        "url": "https:\/\/www.creaweb.re",
+        "latestAudit": {
+            "date": "2025-07-04T11:05:42.321Z",
+            "scores": {
+                "performance": 54,
+                "accessibility": 66,
+                "best-practices": 74,
+                "seo": 93,
+                "psiReportUrl": "https:\/\/pagespeed.web.dev\/report?url=https%3A%2F%2Fwww.creaweb.re",
+                "faviconUrl": "https:\/\/t1.gstatic.com\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.creaweb.re&size=64",
+                "carbon": 0.6286265789357945,
+                "carbonCleanerThan": 45
+            }
+        }
+    },
+    {
+        "name": "Lanana Digitale",
+        "url": "https:\/\/lanana-digitale.fr",
+        "latestAudit": {
+            "date": "2025-07-08T07:31:22.000Z",
+            "scores": {
+                "performance": 46,
+                "accessibility": 93,
+                "best-practices": 100,
+                "seo": 100,
+                "carbon": 0.39076685281991963,
+                "carbonCleanerThan": 63,
+                "psiReportUrl": "https:\/\/pagespeed.web.dev\/report?url=https%3A%2F%2Flanana-digitale.fr",
+                "faviconUrl": "https:\/\/t1.gstatic.com\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Flanana-digitale.fr&size=64"
+            }
+        }
+    },
+    {
+        "name": "Web Intense",
+        "url": "https:\/\/web-intense.re",
+        "latestAudit": {
+            "date": "2025-07-06T13:08:01.000Z",
+            "scores": {
+                "performance": 71,
+                "accessibility": 87,
+                "best-practices": 96,
+                "seo": 92,
+                "carbon": 0.9355573047506623,
+                "carbonCleanerThan": 31,
+                "psiReportUrl": "https:\/\/pagespeed.web.dev\/report?url=https%3A%2F%2Fweb-intense.re",
+                "faviconUrl": "https:\/\/t1.gstatic.com\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fweb-intense.re&size=64"
+            }
+        }
+    },
+    {
+        "name": "HCG",
+        "url": "https:\/\/www.hcg.re",
+        "latestAudit": {
+            "date": "2025-07-08T09:35:07.000Z",
+            "scores": {
+                "performance": 61,
+                "accessibility": 50,
+                "best-practices": 93,
+                "seo": 91,
+                "carbon": 0.44203899150956416,
+                "carbonCleanerThan": 53,
+                "psiReportUrl": "https:\/\/pagespeed.web.dev\/report?url=https%3A%2F%2Fwww.hcg.re",
+                "faviconUrl": "https:\/\/t1.gstatic.com\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.hcg.re&size=64"
+            }
+        }
+    },
+    {
+        "name": "Agence LBCOM",
+        "url": "https:\/\/agence-lbcom.fr",
+        "latestAudit": {
+            "date": "2025-07-06T14:42:34.000Z",
+            "scores": {
+                "performance": 61,
+                "accessibility": 82,
+                "best-practices": 96,
+                "seo": 100,
+                "carbon": 6.540353259393946,
+                "carbonCleanerThan": 2,
+                "psiReportUrl": "https:\/\/pagespeed.web.dev\/report?url=https%3A%2F%2Fagence-lbcom.fr",
+                "faviconUrl": "https:\/\/t1.gstatic.com\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fagence-lbcom.fr&size=64"
+            }
+        }
+    },
+    {
+        "name": "OI Web",
+        "url": "https:\/\/www.oi-web.com",
+        "latestAudit": {
+            "date": "2025-07-08T10:10:39.000Z",
+            "scores": {
+                "performance": 93,
+                "accessibility": 92,
+                "best-practices": 96,
+                "seo": 92,
+                "carbon": 0.1365419320659712,
+                "carbonCleanerThan": 89,
+                "psiReportUrl": "https:\/\/pagespeed.web.dev\/report?url=https%3A%2F%2Fwww.oi-web.com",
+                "faviconUrl": "https:\/\/t1.gstatic.com\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.oi-web.com&size=64"
+            }
+        }
+    },
+    {
+        "name": "Site Web Reunion",
+        "url": "https:\/\/sitewebreunion.com",
+        "latestAudit": {
+            "date": "2025-07-04T11:08:37.345Z",
+            "scores": {
+                "performance": 56,
+                "accessibility": 89,
+                "best-practices": 96,
+                "seo": 92,
+                "psiReportUrl": "https:\/\/pagespeed.web.dev\/report?url=https%3A%2F%2Fsitewebreunion.com",
+                "faviconUrl": "https:\/\/t1.gstatic.com\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fsitewebreunion.com&size=64",
+                "carbon": 1.0346461818468757,
+                "carbonCleanerThan": 24
+            }
+        }
+    },
+    {
+        "name": "Pixell",
+        "url": "https:\/\/www.pixell.eu",
+        "latestAudit": {
+            "date": "2025-07-04T11:09:36.739Z",
+            "scores": {
+                "performance": 59,
+                "accessibility": 78,
+                "best-practices": 70,
+                "seo": 100,
+                "psiReportUrl": "https:\/\/pagespeed.web.dev\/report?url=https%3A%2F%2Fwww.pixell.eu",
+                "faviconUrl": "https:\/\/t1.gstatic.com\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.pixell.eu&size=64",
+                "carbon": 0.8283228362979368,
+                "carbonCleanerThan": 35
+            }
+        }
+    },
+    {
+        "name": "CMondon",
+        "url": "https:\/\/cmondon.com",
+        "latestAudit": {
+            "date": "2025-07-06T13:06:20.000Z",
+            "scores": {
+                "performance": 57.99999999999999,
+                "accessibility": 82,
+                "best-practices": 96,
+                "seo": 92,
+                "carbon": 1.157909518638812,
+                "carbonCleanerThan": 21,
+                "psiReportUrl": "https:\/\/pagespeed.web.dev\/report?url=https%3A%2F%2Fcmondon.com",
+                "faviconUrl": "https:\/\/t1.gstatic.com\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fcmondon.com&size=64"
+            }
+        }
+    },
+    {
+        "name": "Web Creatis",
+        "url": "https:\/\/www.webcreatis.fr",
+        "latestAudit": {
+            "date": "2025-07-08T10:39:44.000Z",
+            "scores": {
+                "performance": 98,
+                "accessibility": 96,
+                "best-practices": 96,
+                "seo": 100,
+                "carbon": 2.1007814169072545,
+                "carbonCleanerThan": 11,
+                "psiReportUrl": "https:\/\/pagespeed.web.dev\/report?url=https%3A%2F%2Fwww.webcreatis.fr",
+                "faviconUrl": "https:\/\/t1.gstatic.com\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.webcreatis.fr&size=64"
+            }
+        }
+    },
+    {
+        "name": "Webmix",
+        "url": "https:\/\/www.webmix.fr",
+        "latestAudit": {
+            "date": "2025-07-06T08:29:54.000Z",
+            "scores": {
+                "performance": 77,
+                "accessibility": 87,
+                "best-practices": 100,
+                "seo": 100,
+                "carbon": 0.6956259999571368,
+                "carbonCleanerThan": 36,
+                "psiReportUrl": "https:\/\/pagespeed.web.dev\/report?url=https%3A%2F%2Fwww.webmix.fr",
+                "faviconUrl": "https:\/\/t1.gstatic.com\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.webmix.fr&size=64"
+            }
+        }
+    },
+    {
+        "name": "ACT Agency",
+        "url": "https:\/\/www.act-agency.fr",
+        "latestAudit": {
+            "date": "2025-07-08T10:49:15.000Z",
+            "scores": {
+                "performance": 52,
+                "accessibility": 92,
+                "best-practices": 100,
+                "seo": 100,
+                "carbon": 1.3914586794736796,
+                "carbonCleanerThan": 20,
+                "psiReportUrl": "https:\/\/pagespeed.web.dev\/report?url=https%3A%2F%2Fwww.act-agency.fr",
+                "faviconUrl": "https:\/\/t1.gstatic.com\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.act-agency.fr&size=64"
+            }
+        }
+    },
+    {
+        "name": "Salesgosses",
+        "url": "https:\/\/www.salesgosses.re",
+        "latestAudit": {
+            "date": "2025-07-04T11:13:11.712Z",
+            "scores": {
+                "performance": 58,
+                "accessibility": 95,
+                "best-practices": 78,
+                "seo": 100,
+                "psiReportUrl": "https:\/\/pagespeed.web.dev\/report?url=https%3A%2F%2Fwww.salesgosses.re",
+                "faviconUrl": "https:\/\/t1.gstatic.com\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.salesgosses.re&size=64",
+                "carbon": 1.305665516055934,
+                "carbonCleanerThan": 22
+            }
+        }
+    },
+    {
+        "name": "Synergie",
+        "url": "https:\/\/synergie.re\/",
+        "latestAudit": {
+            "date": "2025-07-06T06:13:15.000Z",
+            "scores": {
+                "performance": 61,
+                "accessibility": 91,
+                "best-practices": 96,
+                "seo": 92,
+                "carbon": 1.1418552244341933,
+                "carbonCleanerThan": 25,
+                "psiReportUrl": "https:\/\/pagespeed.web.dev\/report?url=https%3A%2F%2Fsynergie.re%2F",
+                "faviconUrl": "https:\/\/t1.gstatic.com\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fsynergie.re%2F&size=64"
+            }
+        }
+    },
+    {
+        "name": "Boostali",
+        "url": "https:\/\/boostali.com\/",
+        "latestAudit": {
+            "date": "2025-07-05T14:57:43.000Z",
+            "scores": {
+                "performance": 56.99999999999999,
+                "accessibility": 87,
+                "best-practices": 100,
+                "seo": 85,
+                "carbon": 0.9814905151871034,
+                "carbonCleanerThan": 30,
+                "psiReportUrl": "https:\/\/pagespeed.web.dev\/report?url=https%3A%2F%2Fboostali.com%2F",
+                "faviconUrl": "https:\/\/t1.gstatic.com\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fboostali.com%2F&size=64"
+            }
+        }
+    },
+    {
+        "name": "The Boring Agency",
+        "url": "https:\/\/theboringagency.io\/",
+        "latestAudit": {
+            "date": "2025-07-08T07:31:32.000Z",
+            "scores": {
+                "performance": 70,
+                "accessibility": 83,
+                "best-practices": 96,
+                "seo": 100,
+                "carbon": 0.4085277009017766,
+                "carbonCleanerThan": 62,
+                "psiReportUrl": "https:\/\/pagespeed.web.dev\/report?url=https%3A%2F%2Ftheboringagency.io%2F",
+                "faviconUrl": "https:\/\/t1.gstatic.com\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Ftheboringagency.io%2F&size=64"
+            }
+        }
+    },
+    {
+        "name": "BNB",
+        "url": "https:\/\/bnb.re\/",
+        "latestAudit": {
+            "date": "2025-07-08T13:10:14.000Z",
+            "scores": {
+                "performance": 69,
+                "accessibility": 92,
+                "best-practices": 93,
+                "seo": 100,
+                "carbon": 0.1111193392940797,
+                "carbonCleanerThan": 91,
+                "psiReportUrl": "https:\/\/pagespeed.web.dev\/report?url=https%3A%2F%2Fbnb.re%2F",
+                "faviconUrl": "https:\/\/t1.gstatic.com\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fbnb.re%2F&size=64"
+            }
+        }
+    },
+    {
+        "name": "Loniweb",
+        "url": "https:\/\/loniweb.com",
+        "latestAudit": {
+            "date": "2025-07-08T07:09:57.000Z",
+            "scores": {
+                "performance": 65,
+                "accessibility": 91,
+                "best-practices": 100,
+                "seo": 100,
+                "carbon": 0.3854077852673829,
+                "carbonCleanerThan": 59,
+                "psiReportUrl": "https:\/\/pagespeed.web.dev\/report?url=https%3A%2F%2Floniweb.com",
+                "faviconUrl": "https:\/\/t1.gstatic.com\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Floniweb.com&size=64"
+            }
+        }
+    },
+    {
+        "name": "Soyoo",
+        "url": "https:\/\/www.soyoo.re",
+        "latestAudit": {
+            "date": "2025-07-05T20:45:54.000Z",
+            "scores": {
+                "performance": 49,
+                "accessibility": 94,
+                "best-practices": 96,
+                "seo": 100,
+                "carbon": 1.9382625578552486,
+                "carbonCleanerThan": 12,
+                "psiReportUrl": "https:\/\/pagespeed.web.dev\/report?url=https%3A%2F%2Fwww.soyoo.re",
+                "faviconUrl": "https:\/\/t1.gstatic.com\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.soyoo.re&size=64"
+            }
+        }
+    },
+    {
+        "name": "ADSEI",
+        "url": "https:\/\/www.adsei.re",
+        "latestAudit": {
+            "date": "2025-07-05T20:47:23.000Z",
+            "scores": {
+                "performance": 53,
+                "accessibility": 75,
+                "best-practices": 86,
+                "seo": 92,
+                "carbon": 0.4897603199855425,
+                "carbonCleanerThan": 55.00000000000001,
+                "psiReportUrl": "https:\/\/pagespeed.web.dev\/report?url=https%3A%2F%2Fwww.adsei.re",
+                "faviconUrl": "https:\/\/t1.gstatic.com\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.adsei.re&size=64"
+            }
+        }
+    },
+    {
+        "name": "Reunioweb",
+        "url": "https:\/\/www.reunioweb.com",
+        "latestAudit": {
+            "date": "2025-07-08T13:10:42.000Z",
+            "scores": {
+                "performance": 75,
+                "accessibility": 89,
+                "best-practices": 100,
+                "seo": 92,
+                "carbon": 0.1611257230206393,
+                "carbonCleanerThan": 86,
+                "psiReportUrl": "https:\/\/pagespeed.web.dev\/report?url=https%3A%2F%2Fwww.reunioweb.com",
+                "faviconUrl": "https:\/\/t1.gstatic.com\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.reunioweb.com&size=64"
+            }
+        }
+    },
+    {
+        "name": "Studio K",
+        "url": "https:\/\/www.studiok.re",
+        "latestAudit": {
+            "date": "2025-07-06T14:42:24.000Z",
+            "scores": {
+                "performance": 39,
+                "accessibility": 95,
+                "best-practices": 75,
+                "seo": 100,
+                "carbon": 8.254467429601775,
+                "carbonCleanerThan": 1,
+                "psiReportUrl": "https:\/\/pagespeed.web.dev\/report?url=https%3A%2F%2Fwww.studiok.re",
+                "faviconUrl": "https:\/\/t1.gstatic.com\/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https%3A%2F%2Fwww.studiok.re&size=64"
+            }
+        }
+    }
+]
