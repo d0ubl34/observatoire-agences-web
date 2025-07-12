@@ -2,6 +2,10 @@
 
 Ce plugin WordPress permet de créer un tableau de classement dynamique des agences web (ou de tout autre site) en se basant sur des indicateurs de performance clés issus de Google PageSpeed Insights et de Website Carbon API.
 
+## Démo en ligne
+
+Vous pouvez voir le plugin en action sur cette page de démonstration : [Observatoire des agences web à La Réunion](https://doublea.io/observatoire-agence-web-reunion/)
+
 ## Fonctionnalités
 
 *   **Classement dynamique** : Affiche un tableau triable par score.
