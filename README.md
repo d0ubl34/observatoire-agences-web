@@ -18,7 +18,7 @@ Vous pouvez voir le plugin en action sur cette page de démonstration : [Observa
 
 ## Installation
 
-1.  **Téléchargez le plugin** : Récupérez la dernière version du plugin depuis la page [Releases](https://github.com/your-username/your-repo-name/releases) de ce dépôt GitHub (cliquez sur `Source code (zip)`).
+1.  **Téléchargez le plugin** : Récupérez la dernière version du plugin depuis la page [Releases](https://github.com/d0ubl34/observatoire-agences-web) de ce dépôt GitHub (cliquez sur `Source code (zip)`).
 2.  **Allez sur votre site WordPress** : Dans votre tableau de bord, allez dans `Extensions` > `Ajouter`.
 3.  **Téléversez le plugin** : Cliquez sur `Téléverser une extension` et sélectionnez le fichier `.zip` que vous venez de télécharger.
 4.  **Activez le plugin** : Une fois l'installation terminée, cliquez sur `Activer`.
