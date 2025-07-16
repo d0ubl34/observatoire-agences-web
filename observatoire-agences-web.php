@@ -128,23 +128,32 @@ function oaw_refresh_lighthouse_data() {
         'faviconUrl' => 'https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=' . urlencode($agency_url) . '&size=64' // Re-add favicon URL logic
     ];
 
-    // Call Website Carbon API
-    $carbon_api_url = 'https://api.websitecarbon.com/site?url=' . urlencode($agency_url);
-    $carbon_response = wp_remote_get($carbon_api_url, array('timeout' => 180));
+    // Extract total byte weight from PageSpeed Insights data
+    $total_bytes = isset($data['lighthouseResult']['audits']['total-byte-weight']['numericValue']) ? $data['lighthouseResult']['audits']['total-byte-weight']['numericValue'] : 0;
 
-    if (!is_wp_error($carbon_response)) {
-        $carbon_body = wp_remote_retrieve_body($carbon_response);
-        $carbon_data = json_decode($carbon_body, true);
+    // Call Website Carbon API using the /data endpoint
+    if ($total_bytes > 0) {
+        // We assume hosting is not green (0) as we don't have that information
+        $carbon_api_url = 'https://api.websitecarbon.com/data?bytes=' . $total_bytes . '&green=0';
+        $carbon_response = wp_remote_get($carbon_api_url, array('timeout' => 180));
 
-        error_log('Website Carbon API Raw Response: ' . $carbon_body);
-        error_log('Website Carbon API Decoded Data: ' . print_r($carbon_data, true));
+        if (!is_wp_error($carbon_response)) {
+            $carbon_body = wp_remote_retrieve_body($carbon_response);
+            $carbon_data = json_decode($carbon_body, true);
 
-        if (isset($carbon_data['statistics']['co2']['grid']['grams'])) {
-            $scores['carbon'] = $carbon_data['statistics']['co2']['grid']['grams'];
+            error_log('Website Carbon API Raw Response: ' . $carbon_body);
+            error_log('Website Carbon API Decoded Data: ' . print_r($carbon_data, true));
+
+            // Use the new response structure from the /data endpoint
+            if (isset($carbon_data['gco2e'])) {
+                $scores['carbon'] = $carbon_data['gco2e'];
+            }
+            if (isset($carbon_data['cleanerThan'])) {
+                $scores['carbonCleanerThan'] = $carbon_data['cleanerThan'] * 100;
+            }
         }
-        if (isset($carbon_data['cleanerThan'])) {
-            $scores['carbonCleanerThan'] = $carbon_data['cleanerThan'] * 100;
-        }
+    } else {
+        error_log('Could not retrieve total byte weight from PageSpeed API for ' . $agency_url);
     }
 
     $json_file_path = plugin_dir_path(__FILE__) . 'lighthouse-results.json';
